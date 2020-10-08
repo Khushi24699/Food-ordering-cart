@@ -1,4 +1,4 @@
-# react.js shopping cart
+# react.js Food ordering portal+cart
 
 ## getting started
 
